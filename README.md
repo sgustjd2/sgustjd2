@@ -1,89 +1,59 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20+GO9ME's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
+# 민현성 · AI & Backend Developer
 
-<div align="left">
+컴퓨터 비전과 백엔드 개발을 기반으로, 실제 환경에서 동작하는 AI 서비스를 만듭니다.
+산업안전 CCTV 영상분석, YOLO/OpenCV/VLM, Java/Spring 웹 시스템을 경험했고,
+최근에는 LLM·RAG·AI Agent를 제품과 자동화에 연결하는 데 관심이 있습니다.
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://burning-go9me.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-    <a href="https://plump-thursday-cbe.notion.site/32c63b2b0b0e40a0a0e2229ff7e6472f?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=burning-go9me&theme=default)](https://burning-go9me.tistory.com/)
-</div><br>
+[GitHub](https://github.com/sgustjd2) · [Blog](https://burning-go9me.tistory.com/)
 
- ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/minstragramm/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="sgustjd1234@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
+## Career
 
- ### 📚 Language
-<div align=left>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
+- **2025.06 ~ 현재 · 벨로크 — AI 개발자**
+  - `i-object-track` 기반 산업안전 AI 영상분석 솔루션 개발
+  - YOLO 객체 탐지, VLM 이벤트 재검증, 오탐 필터링, NPU 추론 최적화
+  - 침입·배회·쓰러짐·화재·연기·안전모 미착용 등 CCTV 이벤트 탐지 고도화
+- **2023.09 ~ 2025.06 · 크림하우스 — 웹 프로그램 개발**
+  - Java/Spring 기반 SI·SM 프로젝트 신규 개발 및 유지보수
+  - LG 자산관리·브랜드넷, SKT Inbound 로밍 등 웹 시스템 운영 및 개선
+- **2020.09 ~ 2022.10 · 마젠타 로보틱스 — 컴퓨터 비전/로보틱스**
+  - OpenCV·YOLOv5 기반 객체 탐지, 추적, 영상처리 및 로봇 연동
+  - 데이터 라벨링, 모델 학습, 실시간 처리, PyQt UI, MariaDB 구축
 
+## Selected Projects
 
+| 프로젝트 | 설명 | 기술 |
+| --- | --- | --- |
+| [한끗](https://github.com/sgustjd2/aztomz) · [서비스](https://az2mz.vercel.app) | 밈·신조어·맛집을 해석하고 SNS 후기의 광고 의심도를 분석하는 모바일 웹 | Vanilla JS, HTML/CSS |
+| [LifeGotchi](https://github.com/sgustjd2/tamagotchi) · [서비스](https://lifegotchi.vercel.app) | 취업부터 은퇴와 2세대 상속까지 이어지는 한국형 인생 시뮬레이션 | TypeScript |
+| [MemoStation](https://github.com/sgustjd2/MemoStationProject) | 메모·블로그·유튜브를 의미로 검색하는 RAG 기반 지식 관리 서비스 | Next.js, FastAPI, FAISS |
+| [AITrend](https://github.com/sgustjd2/AITrend) | 여러 소스의 AI 동향을 수집·검증해 일간 리포트로 만드는 자동화 | Python, Claude Automation |
 
-### 💼 Frameworks / Libraries
-<div align=left>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
-</div>
+### More AI experiments
 
-### 🖥 DB 
-<div align="left">
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
-</div>
+- [법령 AI 분석](https://github.com/sgustjd2/semantic_matching_comparison) · [legalParser](https://github.com/sgustjd2/legalParser) — BGE-M3·LegalPro-BERT 기반 법령 비교 및 구조화
+- [ollama-ocr](https://github.com/sgustjd2/ollama-ocr) — 로컬 Vision LLM을 활용한 한국어 문서 OCR
+- [claude-skills](https://github.com/sgustjd2/claude-skills) — 재사용 가능한 AI Agent 스킬·프롬프트·검증 도구
 
- ### 🛠 Tools
-<div align=left>
-  <img 
-</div>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-<hr>
+## Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgustjd2&layout=compact&theme=highcontrast)
+**AI / Computer Vision** · YOLOv5/v8/YOLOE · OpenCV · VLM/LLM · RAG · FAISS · BGE-M3 · Ollama
 
+**Backend** · Java · Spring Boot · FastAPI · Python · REST API · JSP/Servlet
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgustjd2&show_icons=true&theme=highcontrast)
+**Frontend** · TypeScript · JavaScript · React · Next.js · HTML/CSS
 
+**Database / Infra** · PostgreSQL · MySQL · MariaDB · OracleDB · Docker · Linux · Vercel · Git
 
+## Education & Certifications
 
-<!--
-**sgustjd2/sgustjd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 국민대학교 경영대학원 AI 빅데이터 석사 과정 · 2026.03 ~
+- 가톨릭대학교 국제통상학과 / 회계학 복수전공
+- 정보처리기사 · SQLD · 리눅스마스터 2급
 
-Here are some ideas to get you started:
+<details>
+<summary>What I care about</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 모델 성능뿐 아니라 현장 데이터, 오탐·누락, 추론 비용과 운영 안정성까지 함께 봅니다.
+- 새로운 기술은 직접 작은 제품으로 만들어보고, 반복되는 작업은 자동화 가능한 구조로 정리합니다.
+
+</details>
