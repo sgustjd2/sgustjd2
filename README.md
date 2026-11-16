@@ -22,8 +22,8 @@ AI와 데이터 기술을 실제 서비스와 업무에 연결하는 개발자�
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -41,19 +41,17 @@ AI와 데이터 기술을 실제 서비스와 업무에 연결하는 개발자�
 
 ## 프로젝트
 
-| 프로젝트 | 소개 |
-| --- | --- |
-| [SkillDesk](https://github.com/sgustjd2/skill-manage-viewer) | Claude Code·Codex·Antigravity 스킬을 한곳에서 설치·관리하는 Windows·macOS 데스크톱 앱. CI와 릴리스 제공 |
-| [ADsP 포켓](https://github.com/sgustjd2/adsp-pass) · [앱 사용하기](https://sgustjd2.github.io/adsp-pass/) | 문제 풀이, 요약 노트, 모의고사를 오프라인에서도 이용할 수 있는 ADsP 학습 PWA |
-| [AITrend](https://github.com/sgustjd2/AITrend) | 여러 출처의 AI 소식을 수집하고 근거와 접근 한계를 기록해 일간 리포트로 만드는 자동화 파이프라인 |
-| [초대쿵 · CHODAEKUNG](https://github.com/sgustjd2/CHODAEKUNG) · [서비스 사용하기](https://chodaekung.vercel.app) | 모임에 맞는 콘텐츠를 조합해 초대장을 만들고 링크·카카오톡으로 공유하는 모바일 우선 웹앱 |
+- [**SkillDesk**](https://github.com/sgustjd2/skill-manage-viewer) · Claude Code, Codex, Antigravity 스킬을 설치·관리하는 Windows·macOS 데스크톱 앱. CI와 릴리스 제공
+- [**ADsP 포켓**](https://github.com/sgustjd2/adsp-pass) · [앱 사용하기](https://sgustjd2.github.io/adsp-pass/) · 문제 풀이와 요약 노트, 모의고사를 오프라인에서도 이용하는 학습 PWA
+- [**AITrend**](https://github.com/sgustjd2/AITrend) · 여러 출처의 AI 소식을 근거와 확인 한계까지 기록해 일간 리포트로 만드는 자동화 파이프라인
+- [**초대쿵 · CHODAEKUNG**](https://github.com/sgustjd2/CHODAEKUNG) · [서비스 사용하기](https://chodaekung.vercel.app) · 모임별 콘텐츠를 조합해 초대장을 만들고 링크·카카오톡으로 공유하는 모바일 웹앱
 
 ## 기술
 
-**AI / Computer Vision** · LLM · RAG · VLM · YOLO · OpenCV · FAISS  
-**Backend** · Python · FastAPI · Java · Spring Boot · REST API  
-**Frontend** · TypeScript · JavaScript · React · Next.js  
-**Data / Infra** · PostgreSQL · MySQL · MariaDB · Docker · Linux · Vercel
+- **AI · 컴퓨터 비전** · LLM, RAG, VLM, 임베딩 검색, FAISS, BGE-M3, YOLO, OpenCV
+- **백엔드** · Python, FastAPI, Java, Spring Boot, REST API
+- **웹** · TypeScript, JavaScript, React, Next.js, Tailwind CSS, Supabase
+- **데이터 · 인프라** · PostgreSQL, MySQL, MariaDB, Docker, Linux, GitHub Actions, Vercel
 
 ## 학력
 
